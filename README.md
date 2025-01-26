@@ -5,7 +5,7 @@
 
 This project looks at quiz performance data to help students study better. It checks quiz answers, groups questions by topic, and shows where students are strong or need improvement. It uses simple analysis and graphs to draw useful insights.
 
-### Demo
+### Demo (click on the below image to watch the demo)
 [![Click on the image to watch the video](https://github.com/user-attachments/assets/b02ab530-ab16-495f-9be1-7e76c6d73711)](https://www.loom.com/share/efbdeefd003f48d0b808b9682fdd8d0b?sid=6490fbdc-3b51-44fa-93f1-cf214b2e272d)
 
 ### Prerequisites

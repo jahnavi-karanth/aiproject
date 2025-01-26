@@ -62,7 +62,14 @@ pip install -r requirements.txt
 
 ## Results and Visualizations
 * Charts showing performance by topic.
+  <img width="849" alt="Screenshot 2025-01-26 at 3 10 48 PM" src="https://github.com/user-attachments/assets/3885aea4-c104-4942-aaa8-ce48d029850d" />
+
 * Grouped topics as easy, moderate, or hard.
+  <img width="874" alt="Screenshot 2025-01-26 at 3 10 58 PM" src="https://github.com/user-attachments/assets/0e3542e8-6411-42e8-bc2d-fe5f1c163aad" />
+
+* Grouped topics on the basis of average score
+  <img width="801" alt="Screenshot 2025-01-26 at 3 11 09 PM" src="https://github.com/user-attachments/assets/9bff0fc5-7fb7-4a53-b144-ab0911a92844" />
+
 
 ## Recommendations
 * Spend more time on weak topics.

@@ -77,8 +77,12 @@ pip install -r requirements.txt
 * Keep practicing strong topics to stay consistent.
 
 ## Roadblocks and Solutions
-* **Problem:** Elbow method didn’t show the best cluster number.
-* **Fix:** Used silhouette scores to decide clusters.
+* **Problem:** Elbow method didn’t show the best cluster number as it was almost a straight line without a sudden change.
+  <img width="694" alt="Screenshot 2025-01-26 at 4 01 54 PM" src="https://github.com/user-attachments/assets/f41c5205-c6f5-48a0-b20e-23aaf728f579" />
+
+* **Fix:** Used silhouette scores to decide clusters. The maximum point in the graph is the number of clusters.
+  <img width="582" alt="Screenshot 2025-01-26 at 4 03 11 PM" src="https://github.com/user-attachments/assets/92d663a1-444b-480f-95aa-baff6464bb56" />
+
 
 ## Future Work and Limitations
 * **Limitations:**
